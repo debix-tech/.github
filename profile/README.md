@@ -73,7 +73,7 @@ Our full repository list can be found [here](https://github.com/orgs/debix-tech/
 
 ## 🤝 Contact Us
 Website: https://debix.io/  
-Sales: info@debix.io   
+Sales: sales@debix.io  
 Tech Support: teksupport@debix.io 
 
 
