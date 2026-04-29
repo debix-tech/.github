@@ -45,7 +45,7 @@ Our full repository list can be found [here](https://github.com/orgs/debix-tech/
 
 |[@NXP](https://www.nxp.com/)|[@STMicroelectronics](https://www.st.com/)| [@TexasInstruments](https://www.ti.com/)|[@Nvidia](https://www.nvidia.com/)
 :---:|:---:|:---:|:---:
-[<img src="https://github.com/NXP.png" alt="NXP" width="90"  height="90" >](https://www.nxp.com/)|[<img src="https://github.com/STMicroelectronics.png" alt="ST" width="90"  height="90" >](https://www.st.com/)|[<img src="https://github.com/TexasInstruments.png" alt="TexasInsruments" width="90"  height="90" >](https://www.ti.com/)|[![@Nvidia](https://avatars.githubusercontent.com/Nvidia?s=90&v=1)](https://www.nvidia.com/)
+[<img src="https://github.com/NXP.png" alt="NXP" width="90"  height="90" >](https://www.nxp.com/)|[<img src="https://github.com/STMicroelectronics.png" alt="ST" width="90"  height="90" >](https://www.st.com/)|[<img src="https://github.com/TexasInstruments.png" alt="TexasInsruments" width="90"  height="90" >](https://www.ti.com/)|[<img src="https://github.com/Nvidia.png" alt="Nvidia" width="90"  height="90" >](https://www.nvidia.com/)
 |**[@Intel](https://www.intel.com)**|**[@Canonical](https://canonical.com/)**|**[@RS](https://www.rs-online.com/)**|**...**
 [<img src="https://github.com/intel.png" alt="Intel" width="90"  height="90" >](https://www.intel.com)|[<img src="https://github.com/Canonical.png" alt="Canonical" width="90"  height="90" >](https://canonical.com/)|[<img src="./RS_Group_logo.jpg" width="90" height="90" alt="RS">](https://www.rs-online.com/)|**...**
 
